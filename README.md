@@ -63,5 +63,41 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan project di perangkat lokal 
 *   **Struktur Folder:** Mengikuti standar GetX Pattern (Model, View, Controller, Service).
 *   **Catatan:** Beberapa fitur seperti pendaftaran akun dan proses pembayaran hanya bersifat simulasi UI (gimik) karena keterbatasan API publik.
 
+## 🔐 Daftar Akun Login (Testing)
+
+Gunakan akun (Yang disediakan API nya) berikut untuk mencoba fitur login:
+
+```
+username: johnd
+password: m38rmF$
+
+username: mor_2314
+password: 83r5^_
+
+username: kevinryan
+password: kev02937@
+
+username: donero
+password: ewedon
+
+username: derek
+password: jklg*_56
+
+username: david_r
+password: 3478*#54
+
+username: snyder
+password: f238&@*$
+
+username: hopkins
+password: William56$hj
+
+username: kate_h
+password: kfejk@*_
+
+username: jimmie_k
+password: klein*#%*
+```
+
 ---
 Dikembangkan dengan ❤️ menggunakan Flutter.
