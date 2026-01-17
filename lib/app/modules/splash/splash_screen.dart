@@ -70,7 +70,7 @@ class SplashPage extends StatelessWidget {
                         ),
                         const SizedBox(height: 24),
                         const Text(
-                          "FAKE STORE",
+                          "ZEGEN STORE",
                           style: TextStyle(
                             fontSize: 36,
                             fontWeight: FontWeight.w900,
