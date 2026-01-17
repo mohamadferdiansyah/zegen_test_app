@@ -7,8 +7,15 @@ environment:
   sdk: ^3.10.4
 
 dependencies:
+  carousel_slider: ^5.1.1
+  connectivity_plus: ^7.0.0
   flutter:
     sdk: flutter
+  font_awesome_flutter: ^10.12.0
+  get: ^4.7.3
+  http: ^1.6.0
+  shared_preferences: ^2.5.4
+  toastification: ^3.0.3
 
 dev_dependencies:
   flutter_test:
@@ -17,3 +24,15 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  fonts:
+    - family: SFProDisplay
+      fonts:
+        - asset: assets/fonts/sf-pro-display/SFPRODISPLAYREGULAR.OTF
+          weight: 400
+        - asset: assets/fonts/sf-pro-display/SFPRODISPLAYMEDIUM.OTF
+          weight: 500
+        - asset: assets/fonts/sf-pro-display/SFPRODISPLAYSEMIBOLDITALIC.OTF
+          weight: 600
+          style: italic
+        - asset: assets/fonts/sf-pro-display/SFPRODISPLAYBOLD.OTF
+          weight: 700
